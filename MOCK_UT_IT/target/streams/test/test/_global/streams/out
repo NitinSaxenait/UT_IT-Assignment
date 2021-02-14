@@ -1,0 +1,86 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.knoldus.Validator.EmployeeValidatorTest, org.scalatest.tools.Framework$$anon$1@3f6bcac6, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.knoldus.db.UserReadDtoTest, org.scalatest.tools.Framework$$anon$1@3f6bcac6, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.knoldus.request.CompanyImplIntegrationTest, org.scalatest.tools.Framework$$anon$1@3f6bcac6, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.knoldus.Validator.CompanyValidatorTest, org.scalatest.tools.Framework$$anon$1@3f6bcac6, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.knoldus.request.UserImplTest, org.scalatest.tools.Framework$$anon$1@3f6bcac6, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.knoldus.Validator.EmailValidatorTest, org.scalatest.tools.Framework$$anon$1@3f6bcac6, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.knoldus.request.CompanyImplTest, org.scalatest.tools.Framework$$anon$1@3f6bcac6, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mUserReadDtoTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mUser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should exist[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mUser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not exist[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.knoldus.db.CompanyReadDtoTest, org.scalatest.tools.Framework$$anon$1@3f6bcac6, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.knoldus.db.EmployeeReadDtoTest, org.scalatest.tools.Framework$$anon$1@3f6bcac6, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.knoldus.request.EmployeeImplTest, org.scalatest.tools.Framework$$anon$1@3f6bcac6, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mEmailValidatorTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32memail[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should have alphanumeric username in lowercase and uppercase[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32memail[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should valid when with starting numbers[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32memail[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should invalid with missing @[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32memail[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should invalid with starting with special symbols except dot and underscore[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCompanyReadDtoTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCompany[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should exist[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not exist[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32memail[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should invalid with space in between[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32memail[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should invalid with missing top level domain[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32memail[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should invalid with missing domain main[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32memail[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should invalid when wrong top level domain except .com/.org/.net[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32memail[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should invalid with more than one top level domain[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32memail[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should invalid with double dots after domain name[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mEmployeeReadDtoTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mEmployee's company[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be present[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not be present[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mEmployeeImplTest:[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.knoldus.Validator.UserValidatorTest, org.scalatest.tools.Framework$$anon$1@3f6bcac6, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mEmployee[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should exist[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be invalid as company does not exist[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(com.knoldus.request.UserImplIntegrationTest, org.scalatest.tools.Framework$$anon$1@3f6bcac6, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mUserImplIntegrationTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mUser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should exist[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be invalid as company does not exist[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCompanyImplTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCompany[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be created[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCompany[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not be created[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mUserValidatorTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mUser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be a valid user[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mUser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be a invalid user as it already exists[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mUser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be a invalid user and email id is valid[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mUser[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be a invalid user and as email id is invalid[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 1 second, 139 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 38[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 12, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 38, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.knoldus.Validator.EmployeeValidatorTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.knoldus.Validator.CompanyValidatorTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.knoldus.request.CompanyImplIntegrationTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.knoldus.Validator.UserValidatorTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.knoldus.Validator.EmailValidatorTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.knoldus.db.UserReadDtoTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.knoldus.request.CompanyImplTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.knoldus.request.UserImplTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.knoldus.request.EmployeeImplTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.knoldus.db.CompanyReadDtoTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.knoldus.request.UserImplIntegrationTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com.knoldus.db.EmployeeReadDtoTest[0m

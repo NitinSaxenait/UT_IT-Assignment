@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/knoldus/UT_IT-GROUP2/MOCK_UT_IT/target/scala-2.12/test-classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidatorTest$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EmployeeValidatorTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CompanyImplTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EmailValidatorTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CompanyValidatorTest$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CompanyReadDtoTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EmployeeReadDtoTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidatorTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserValidatorTest$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserImplTest$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CompanyValidatorTest$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CompanyImplIntegrationTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserImplTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserImplIntegrationTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EmployeeImplTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CompanyValidatorTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserReadDtoTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CompanyImplTest$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/knoldus/UT_IT-GROUP2/MOCK_UT_IT/target/scala-2.12/test-classes.bak[0m
